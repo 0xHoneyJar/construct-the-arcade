@@ -6,6 +6,7 @@ description: "Game design as operating philosophy. Progressive disclosure, core 
 author: "0xHoneyJar"
 license: "MIT"
 type: "skill-pack"
+visibility: public
 
 repository: https://github.com/0xHoneyJar/construct-the-arcade.git
 
