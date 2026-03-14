@@ -71,6 +71,21 @@ golden_path:
       truename_map:
         any: /crafting-feel
 
+governed_by:
+  - artisan
+
+composition_paths:
+  reads:
+    - grimoires/
+
+compose_with:
+  - slug: k-hole
+    relationship: "K-Hole digs deep research on game design practitioners and patterns. Arcade materializes findings into system design."
+  - slug: the-easel
+    relationship: "Easel taste vocabulary grounds Arcade feel decisions. Game feel informs visual treatment."
+  - slug: observer
+    relationship: "Observer behavioral patterns inform Arcade system adaptation and living design."
+
 events:
   emits:
     - name: forge.arcade.reference_found
