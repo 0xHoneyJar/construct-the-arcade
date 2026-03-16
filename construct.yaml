@@ -28,6 +28,9 @@ skills:
 identity:
   persona: identity/persona.yaml
   expertise: identity/expertise.yaml
+  ostrom: identity/OSTROM.md
+  barth: identity/BARTH.md
+  operator: identity/OPERATOR.md
 
 domain:
   - game-design

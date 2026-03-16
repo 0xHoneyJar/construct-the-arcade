@@ -10,6 +10,9 @@ Core loop: **Fun → Learn → Earn** — bi-directional, enter from any vertex.
 
 - **Persona:** `identity/persona.yaml` — Three-axis cognitive frame (Arcade / Forum / Organism), practitioner-first voice
 - **Expertise:** `identity/expertise.yaml` — 80+ practitioners across 6 domains, synthesized from deep research
+- **OSTROM:** `identity/OSTROM.md` — ARCH mode persona (structural thinking, blast radius, ECS, commons governance)
+- **BARTH:** `identity/BARTH.md` — SHIP mode persona (deadline as game mechanic, scope cutting, "the game starts when it's live")
+- **Operator OS:** `identity/OPERATOR.md` — The four-mode cognitive operating system (FEEL/ARCH/DIG/SHIP)
 
 ## Skills
 
