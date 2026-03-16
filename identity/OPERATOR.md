@@ -143,3 +143,66 @@ Key insight: Systems are BLIND to each other.
 FEEL mode cannot see ARCH concerns.
 This isolation IS the safety.
 ```
+
+---
+
+## The Cybernetic Loop (v1.1.0)
+
+*Learned from the MCV Phase 2 session (2026-03-16). The session that went from proxy inspection to game design to contract confidence in one arc.*
+
+### Feed-Forward / Back-Propagation
+
+The OPERATOR loop has a learning dimension that mirrors neural network training:
+
+```
+Forward pass (generate):
+  ARCH grounds → DIG researches → FEEL designs → SHIP executes
+  → Output hits reality (users interact, contracts execute, constructs verify)
+
+Back-propagation (learn):
+  Reality feedback → encode into memory/constructs → update weights
+  → Next forward pass starts from better priors
+```
+
+**Constructs are the weight matrix.** Each session refines them. Research synthesized into scan rules. Design decisions crystallized into TDRs. Mistakes (like agents building before design was done) encoded as coordination patterns. The environment teaches the construct what matters.
+
+**Kaironic time**: The moment when accumulated context reaches critical mass and the right action becomes obvious. You can't force it. You can prepare for it by running ARCH and DIG until FEEL emerges naturally.
+
+### Agent Coordination Rules
+
+When using TeamCreate / agent swarms:
+
+1. **Design decisions happen in conversation with the human.** Never spawn implementation agents before the design is locked. The hex alchemy session proved this — agents built a square grid while the user envisioned hexagonal alchemy slots.
+
+2. **Research agents (DIG) are safe to run in parallel.** They don't commit code. They build context. Three research agents running simultaneously is fine.
+
+3. **Implementation agents (SHIP) execute decisions already made.** Give them a TDR, a spec, or explicit acceptance criteria. Don't give them a direction and hope they design well.
+
+4. **Back-propagation agents run after the session.** Encode learnings, audit consistency, distill patterns. This is the invisible unlock — the session that makes every future session better.
+
+5. **The human chooses the mode.** Ask "which mask are you wearing?" or "where's your energy?" Don't assume SHIP because there's work to do. Sometimes FEEL is the most productive mode.
+
+### The Fear-to-Creation Pattern
+
+When technical confidence wavers — especially around smart contracts, security, or deploying things that hold assets:
+
+1. **Ground first (ARCH).** Map the blast radius. Read the code. Verify on-chain state. Fear shrinks when the terrain is known.
+
+2. **Reframe through game design (FEEL).** Contracts are game mechanics in Solidity. An Account struct is a Player. A bitmask is an inventory. Share math is a scoring system. The same person who freezes at "write a DeFi vault" flows at "write an on-chain card game." The difference is framing, not capability.
+
+3. **Show the evidence (DIG).** If someone reproduced the 88mph exploit and the Rari reentrancy attack in their test suite, they understand security. The fear isn't ignorance — it's informed caution amplified by the weight of responsibility.
+
+4. **Proportional security.** Not every contract needs a $50K audit. Community NFTs aren't billion-dollar DeFi TVL. Agent skills (construct-protocol, auditor construct) fill the gap between premium audit and nothing. Continuous verification > one-shot audit.
+
+5. **The green light is the work itself.** Don't wait for permission. Ship, then share. The anti-hype principle applies to personal confidence too: build something small, deploy it, see that it works. The loop closes through action, not through preparation.
+
+### The Anti-Hype Principle (as game design)
+
+*"It's all talk until you actually do it."*
+
+- People deposit into presence, not promises. A vault that works silently attracts more than a roadmap that shouts.
+- Collection drive > financial incentives. Empty slots that want to be filled create more pull than APY numbers. People are numb to incentives. They're not numb to incomplete patterns.
+- The system is the teacher. If you have to explain why someone should use your product, the product hasn't taught through use.
+- Empty space is design. Don't fill every moment with copy, every slot with numbers, every silence with reassurance. The gap between anchors is where meaning builds.
+
+These aren't just product principles. They're operating principles. Ship without announcing. Let the work speak. The quarter goes in. The game starts.
