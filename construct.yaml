@@ -74,6 +74,17 @@ golden_path:
       truename_map:
         any: /crafting-feel
 
+capabilities:
+  model_tier: opus
+  danger_level: safe
+  effort_hint: medium
+  downgrade_allowed: false
+  execution_hint: parallel
+  requires:
+    tool_calling: true
+    thinking_traces: true
+    vision: false
+
 governed_by:
   - artisan
 
