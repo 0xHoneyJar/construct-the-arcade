@@ -2,7 +2,7 @@ schema_version: 3
 name: "The Arcade"
 slug: "the-arcade"
 version: "1.0.0"
-description: "Game design patterns applied to product UX. Progressive disclosure, core loops, game feel, reward systems, and economy design — applied to building experiences that teach through participation. Not gamification. The system structure itself guides the user."
+description: "Game design patterns applied to product UX. Progressive disclosure, engagement loops, interaction feel, reward systems, and economy design — applied to building experiences that teach through use. Not gamification — structural UX that guides users naturally."
 short_description: "Game design patterns for product UX"
 author: "0xHoneyJar"
 license: "MIT"
