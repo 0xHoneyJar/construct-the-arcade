@@ -8,9 +8,7 @@ author: "0xHoneyJar"
 license: "MIT"
 type: "skill-pack"
 visibility: public
-
 repository: https://github.com/0xHoneyJar/construct-the-arcade.git
-
 skills:
   - slug: referencing-games
     path: skills/referencing-games
@@ -24,21 +22,18 @@ skills:
     path: skills/playtesting-loops
   - slug: crafting-feel
     path: skills/crafting-feel
-
 identity:
   persona: identity/persona.yaml
   expertise: identity/expertise.yaml
   ostrom: identity/OSTROM.md
   barth: identity/BARTH.md
   operator: identity/OPERATOR.md
-
 domain:
   - game-design
   - experience-design
   - progressive-disclosure
   - systems-design
   - financial-experience
-
 expertise:
   - progressive disclosure through play
   - core loop design
@@ -46,7 +41,6 @@ expertise:
   - trust market architecture
   - living system design
   - financial experience pedagogy
-
 golden_path:
   commands:
     - name: reference
@@ -73,7 +67,6 @@ golden_path:
       description: "Tune the phenomenology of an interaction"
       truename_map:
         any: /crafting-feel
-
 capabilities:
   model_tier: opus
   danger_level: safe
@@ -84,14 +77,11 @@ capabilities:
     tool_calling: true
     thinking_traces: true
     vision: false
-
 governed_by:
   - artisan
-
 composition_paths:
   reads:
     - grimoires/
-
 compose_with:
   - slug: k-hole
     relationship: "K-Hole digs deep research on game design practitioners and patterns. Arcade materializes findings into system design."
@@ -99,7 +89,6 @@ compose_with:
     relationship: "Easel taste vocabulary grounds Arcade feel decisions. Game feel informs visual treatment."
   - slug: observer
     relationship: "Observer behavioral patterns inform Arcade system adaptation and living design."
-
 events:
   emits:
     - name: forge.arcade.reference_found
@@ -121,7 +110,6 @@ events:
       description: "Can incorporate deep research findings into design references"
     - name: forge.observer.pattern_detected
       description: "Can respond to observed user behavior patterns with system adaptation"
-
 pack_dependencies:
   optional:
     - slug: the-easel
@@ -130,7 +118,6 @@ pack_dependencies:
       reason: "Depth research — Arcade references benefit from K-hole's grounded search for practitioners and patterns"
     - slug: observer
       reason: "Living system design — Observer behavioral patterns inform Arcade system adaptation"
-
 workflow:
   depth: light
   gates:
@@ -140,3 +127,16 @@ workflow:
     implement: required
     review: visual
     audit: skip
+commands:
+  - name: feel
+    path: commands/feel.md
+  - name: playtest
+    path: commands/playtest.md
+  - name: progression
+    path: commands/progression.md
+  - name: prototype
+    path: commands/prototype.md
+  - name: reference
+    path: commands/reference.md
+  - name: systems
+    path: commands/systems.md
