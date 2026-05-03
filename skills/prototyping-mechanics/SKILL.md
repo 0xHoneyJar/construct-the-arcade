@@ -1,3 +1,11 @@
+---
+name: prototyping-mechanics
+description: "Rapid mechanic prototyping with feel parameters. Hypothesis-first, minimum testable, parameter-exposed."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: true
+trigger: "/prototype"
+---
+
 # Prototyping Mechanics
 
 ## Purpose

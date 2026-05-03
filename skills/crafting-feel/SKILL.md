@@ -1,3 +1,11 @@
+---
+name: crafting-feel
+description: "Tune the phenomenology of an interaction — juice, weight, silence, restraint, timing."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: true
+trigger: "/feel"
+---
+
 # Crafting Feel
 
 ## Purpose

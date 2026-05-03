@@ -1,3 +1,11 @@
+---
+name: playtesting-loops
+description: "Structure playtests for feel and learning validation. Observation protocol, learning vs friction signals."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: true
+trigger: "/playtest"
+---
+
 # Playtesting Loops
 
 ## Purpose

@@ -1,3 +1,11 @@
+---
+name: designing-systems
+description: "Design economic or social systems with core loops. Faucets, sinks, velocity, emergent behavior."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: true
+trigger: "/systems"
+---
+
 # Designing Systems
 
 ## Purpose
