@@ -1,3 +1,11 @@
+---
+name: designing-progression
+description: "Design progressive disclosure systems that teach through play. Stage complexity, design teaching moments."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: true
+trigger: "/progression"
+---
+
 # Designing Progression
 
 ## Purpose

@@ -1,3 +1,11 @@
+---
+name: referencing-games
+description: "Find structural game design parallels for your problem. Specific games, designers, transferable principles."
+allowed-tools: [Bash, Read, Grep, Glob, Edit, Write]
+user-invocable: true
+trigger: "/reference"
+---
+
 # Referencing Games
 
 ## Purpose
