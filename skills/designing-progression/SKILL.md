@@ -73,6 +73,8 @@ Design progressive disclosure systems that teach complex mechanics through play.
 - **No failure allowed**: systems that prevent mistakes prevent learning
 - **Progress bars as teaching**: knowing you're 60% done doesn't mean you understand anything
 - **Documentation as onboarding**: if the answer is "read the docs", the product failed
+- **Realtime as interruption**: realtime events landing as toast/sonner popups — a notification assault. Realtime should be CALM: gentle ~200ms ease-in load-ins (LZScan-style) so arrivals feel like a breathing space, not an alarm. Realtime AS calm — consistent with color-carries-one-bit and shadowless.
+- **Stuck-view with no address**: a paced or realtime surface you can't link to. A shareable deep-link to a specific state (`/trace/[id]` — paste a GUID, send the stuck view) is a real operator workflow worth its own route, not just in-place expansion.
 
 ## Acceptance Criteria
 
