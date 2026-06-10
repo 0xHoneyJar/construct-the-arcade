@@ -92,6 +92,7 @@ Structure a playtest to answer specific questions about feel, learning, and syst
 - **Averaging feedback**: "3 out of 5 liked it" is useless. What did each person DO?
 - **Testing features, not feel**: Task completion is QA. Playtesting is about the quality of the experience.
 - **One playtest**: Systems need iteration. One round tells you what's wrong. Three rounds tell you if you fixed it.
+- **Repo orientation over task inputs**: Reading the repo's grimoires (old PRDs, sprints) instead of the files the task mandates — you end up answering the producer-side question the operator deliberately kept behind the blanket. Task-scoped inputs outrank repo orientation, always. (clew lrn-20260609-the-arcade-2abf99.)
 
 ## Acceptance Criteria
 
