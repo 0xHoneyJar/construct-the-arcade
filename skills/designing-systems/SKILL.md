@@ -96,6 +96,8 @@ The construct draws on these as structural references:
 - **Fake scarcity**: Artificial limits that don't map to actual value or rarity.
 - **Over-promising**: The crypto-specific wound. Saying "to the moon" when you mean "we might make money."
 - **Progress treadmill**: Leveling up without capability growth. The number goes up but nothing changes.
+- **Persona before task**: Spending the tool budget re-reading your own pack (identity, construct.yaml, schemas) before the task's NAMED ground files. Task files first, persona second — your identity survives without re-reading it; the task doesn't. (clew lrn-20260609-the-arcade-9bfb9c/87b667: an entire run's budget went to onboarding ritual while the mandated grounding went unread.)
+- **Claiming absent sections**: Asserting the output contains a section or inline analysis it doesn't. A missing section *named* is a finding; a missing section *claimed* is roleplay.
 
 ## Acceptance Criteria
 
